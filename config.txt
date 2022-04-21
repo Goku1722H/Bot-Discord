@@ -1,0 +1,4 @@
+{
+"user_token" : "NzY2NzI2NzA1MTI1MzkyNDQ0.YlzSog.yTpg7hEEex5zn_zKPABol5Jtd4A",
+"channel_id" : "838300815856369704"
+}
